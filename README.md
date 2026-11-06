@@ -6,7 +6,7 @@
 - 🔭 Actualmente trabajo en [**social-hub**](https://github.com/angelgarciasolorzano/social-hub), una red social con Laravel, Inertia y React, notificaciones en tiempo real y panel de administración.
 - 🧪 Me importa el código limpio: tipado estricto, arquitectura modular y pruebas automatizadas.
 - 🌱 Sigo aprendiendo cada día nuevas tecnologías y buenas prácticas.
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/TODO)
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/angelgarciasolorzano/)
 
 ---
 
